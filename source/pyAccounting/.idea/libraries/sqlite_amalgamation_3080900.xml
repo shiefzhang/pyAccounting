@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqlite-amalgamation-3080900">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/io.litehelpers.cordova.sqliteStorage/sqlite-amalgamation-3080900.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
